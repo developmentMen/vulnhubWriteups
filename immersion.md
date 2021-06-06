@@ -1,3 +1,3 @@
 
-# <div style="text-align:center">texto</div>
+# <div style="text-align:right">texto</div>
 ### mas texto
