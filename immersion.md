@@ -4,6 +4,11 @@
 *write up de la siguiente*
 ## [maquina de Vulnhub](https://www.vulnhub.com/entry/colddworld-immersion,668/)
 
+- Indice
+	- [Escaneo de Puertos](#port-scan)
+	- [Analizando servicios](#dir-fuzz)
+	- [Estamos adentro](#ya-estamos-adentro)
+	- [Root ven a mi](#naciendo-como-root)
 ---
 
 ## Port scan
